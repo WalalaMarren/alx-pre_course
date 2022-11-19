@@ -1,1 +1,1 @@
-My first readme
+STARTING TO LEARN GIT IS SO COOL!!!!
